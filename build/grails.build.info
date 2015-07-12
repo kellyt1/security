@@ -1,0 +1,6 @@
+#Sat, 11 Jul 2015 21:34:07 -0500
+
+grails.env=development
+info.app.name=security
+info.app.version=0.1
+info.app.grailsVersion=3.0.3
